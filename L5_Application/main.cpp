@@ -4,8 +4,11 @@
 #include <stdbool.h>
 #include "gpio.hpp"
 
+
+
 int main(void){
     typedef enum{IDLE, MORNING, CLOSE, PAUSE, ON} State;
+
 
     State currentState = IDLE;
     State tempState = currentState;
@@ -105,5 +108,3 @@ int main(void){
     }
     return 0;
 }
-
-
