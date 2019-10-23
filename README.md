@@ -1,4 +1,4 @@
-#Automatic Closing Blinds
+Automatic Closing Blinds
 
 Abstract
 This report will explain how to build a device to turn window blinds using the SJSUOne board A diagram of the circuit and of the process will be included. 
